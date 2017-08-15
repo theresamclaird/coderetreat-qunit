@@ -1,0 +1,22 @@
+{
+  "name": "coderetreat-qunit",
+  "version": "1.0.0",
+  "description": "A starting point for code retreats using JavaScript and QUnit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theresamclaird/coderetreat-qunit.git"
+  },
+  "author": "Theresa McLaird",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theresamclaird/coderetreat-qunit/issues"
+  },
+  "homepage": "https://github.com/theresamclaird/coderetreat-qunit#readme",
+  "devDependencies": {
+    "qunitjs": "^2.4.0"
+  }
+}
